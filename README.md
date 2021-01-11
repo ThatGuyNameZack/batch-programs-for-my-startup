@@ -4,3 +4,4 @@ reasons i put the performance_check :
 D:>cd \MSI Afterburner
 START MSIAfterburner.exe
 you could change it into (c:> \MSI Afterburner) manually in notepad or notepad++
+(nvm MSI afterburner decided to be a douche lol)
